@@ -1,0 +1,48 @@
+body {background-color: gray;}
+
+.container {text-align: center;
+            
+}
+
+#fotodeperfil {border-radius: 50px;
+               width: 600px;
+               height: 600px; 
+               
+
+}
+
+#sobre-mim {background-color: black;
+            color: white;
+            padding: 100px;
+            margin: 100px; 
+
+
+}
+
+#habilidades {background-color: black;
+            color: white;
+            padding: 100px;
+            margin: 100px; 
+            
+
+}
+
+img { width: 600px;
+    height: 600px;
+
+}
+
+ul a {list-style: none;
+    color: red;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;   
+    text-decoration: none;
+    display: flex;
+}
+
+ul a:hover {color: white;
+        
+}
+
+li {list-style: none;}
